@@ -1,0 +1,26 @@
+<annotation>
+	<folder>H</folder>
+	<filename>H.6c9c95bc-ddf6-11ee-b6c9-342eb790ea71.jpg</filename>
+	<path>D:\VSCODE\RealTimeObjectDetection\Tensorflow\workspace\images\Alphabets_numbers\H\H.6c9c95bc-ddf6-11ee-b6c9-342eb790ea71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>149</ymin>
+			<xmax>408</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

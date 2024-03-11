@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>I.bc95dc6e-ddf6-11ee-a6b1-342eb790ea71.jpg</filename>
+	<path>D:\VSCODE\RealTimeObjectDetection\Tensorflow\workspace\images\Alphabets_numbers\I\I.bc95dc6e-ddf6-11ee-a6b1-342eb790ea71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>143</ymin>
+			<xmax>349</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

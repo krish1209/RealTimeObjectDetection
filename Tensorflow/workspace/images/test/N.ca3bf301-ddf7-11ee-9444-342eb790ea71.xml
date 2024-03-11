@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>N.ca3bf301-ddf7-11ee-9444-342eb790ea71.jpg</filename>
+	<path>D:\VSCODE\RealTimeObjectDetection\Tensorflow\workspace\images\Alphabets_numbers\N\N.ca3bf301-ddf7-11ee-9444-342eb790ea71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>181</ymin>
+			<xmax>267</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

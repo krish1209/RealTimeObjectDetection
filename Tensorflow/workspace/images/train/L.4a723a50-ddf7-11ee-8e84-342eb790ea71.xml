@@ -1,0 +1,26 @@
+<annotation>
+	<folder>L</folder>
+	<filename>L.4a723a50-ddf7-11ee-8e84-342eb790ea71.jpg</filename>
+	<path>D:\VSCODE\RealTimeObjectDetection\Tensorflow\workspace\images\Alphabets_numbers\L\L.4a723a50-ddf7-11ee-8e84-342eb790ea71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>126</ymin>
+			<xmax>366</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

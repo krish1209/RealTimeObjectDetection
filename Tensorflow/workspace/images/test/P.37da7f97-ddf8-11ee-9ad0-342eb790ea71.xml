@@ -1,0 +1,26 @@
+<annotation>
+	<folder>P</folder>
+	<filename>P.37da7f97-ddf8-11ee-9ad0-342eb790ea71.jpg</filename>
+	<path>D:\VSCODE\RealTimeObjectDetection\Tensorflow\workspace\images\Alphabets_numbers\P\P.37da7f97-ddf8-11ee-9ad0-342eb790ea71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>111</ymin>
+			<xmax>376</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

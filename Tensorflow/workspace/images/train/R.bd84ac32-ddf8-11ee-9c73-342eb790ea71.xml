@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>R.bd84ac32-ddf8-11ee-9c73-342eb790ea71.jpg</filename>
+	<path>D:\VSCODE\RealTimeObjectDetection\Tensorflow\workspace\images\Alphabets_numbers\R\R.bd84ac32-ddf8-11ee-9c73-342eb790ea71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>127</ymin>
+			<xmax>302</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C</folder>
+	<filename>C.34f833a3-ddf5-11ee-9d42-342eb790ea71.jpg</filename>
+	<path>D:\VSCODE\RealTimeObjectDetection\Tensorflow\workspace\images\Alphabets_numbers\C\C.34f833a3-ddf5-11ee-9d42-342eb790ea71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>139</ymin>
+			<xmax>297</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>
